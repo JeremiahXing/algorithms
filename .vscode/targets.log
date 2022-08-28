@@ -1,0 +1,293 @@
+make.exe all -f d:\workplace\practice\${workspaceFolder} --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: d:\workplace\practice\${workspaceFolder}: No such file or directory
+
+make: *** No rule to make target 'd:\workplace\practice\${workspaceFolder}'.  Stop.
+
+# GNU Make 4.3
+# Built for x86_64-w64-mingw32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Sun Aug 28 16:37:03 2022
+
+# Variables
+
+# environment
+SYSTEMDRIVE = C:
+# environment
+JAVA_HOME = E:\Program Files\Java\jdk-8.0.1
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\JIMMIE
+# environment
+LOCALAPPDATA = C:\Users\JIMMIE\AppData\Local
+# environment
+VSCODE_CWD = E:\VScode\Microsoft VS Code
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 23
+# environment
+PSMODULEPATH = C:\Progra 
+m Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\PowerShell\Modules\
+# default
+MAKE_COMMAND := make.exe
+# environment
+CUDA_PATH_V10_0 = E:\NvidaGPUComputingToolkits\CUDA\version_10
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_21436_FYMCBQKBBUYPSOFZ
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(p 
+atsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\JIMMIE\AppData\Roaming\Code\CachedData\e4503b30fc78200f846c62cf8091b76ff5547662
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\JIMMIE\AppData\Local\Temp
+# makefile
+MAKEFLAGS = prR
+# environment
+ONEDRIVE = C:\Users\JIMMIE\OneDrive
+# makefile
+CURDIR := d:/workplace/practice
+# environment
+APPLICATION_INSIGH 
+TS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -prR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile
+MAKEFILE_LIST := 
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 21436
+# environment
+CLION = D:\Program Files\JetBrains\CLion 2021.2.3\bin;
+# environment
+CUDA_PATH = E:\N 
+vidaGPUComputingToolkits\CUDA\version_10
+# environment
+__PSLOCKDOWNPOLICY = 0
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# environment
+MSMPI_BIN = C:\Program Files\Microsoft MPI\Bin\
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+MYSQL_HOME = E:\Users\JIMMIE\mysql-8.0.26-winx64
+# environment
+VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := x86_64-w64-mingw32
+# environm 
+ent
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+CLASSPATH = .;E:\Program Files\Java\jdk-8.0.1\bin;E:\Program Files\Java\jdk-8.0.1\lib\dt.jar;E:\Program Files\Java\jdk-8.0.1\lib\tools.jar;C:\Users\JIMMIE\algs4\algs4.jar
+# environment
+HOMEPATH = \Users\JIMMIE
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WEBSTORM = D:\Program Files\JetBrains\WebStorm 2021.2.3\bin;
+# envi 
+ronment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = E:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Users\JIMMIE\algs4\java\bin;E:\NvidaGPUComputingToolkits\CUDA\version_10\bin;E:\NvidaGPUComputingToolkits\CUDA\version_10\libnvvp;C:\Program Files\Microsoft MPI\Bin\;E:\Program Files\Java\jdk-8.0.1\bin;E:\Program Files\Java\jdk-8.0.1\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Users\JIMMIE\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\JIMMIE\AppData\Local\Programs\Python\Python39\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;E:\matlab\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;E:\Users\JIMMIE\mysql-8.0.26-winx64\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;E:\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;E:\Users\JIMMIE\anaconda3;E:\Users\JIMMIE\anaconda3\Library\bin;E:\Users\JIMMIE\anaconda3\Scripts;C:\Program Files (x86)\dotnet\;E:\NvidaGPUComputingToolkits\CUDA\version_10\lib\x64;E:\NvidaGPUComputingToolkits\CUDA\version_10;D:\texlive\2021\bin\win32;D:\Maven\apache-maven-3.8.3\bin;D:\GNAT\2021\bin;C:\Users\JIMMIE\algs4\bin;C:\Users\JIMMIE\AppData\Local\Microsoft\WindowsApps;E:\2Software\mingw64\bin;D:\jetbrains_py\PyCharm 2020.3.3\bin;C:\Users\JIMMIE\AppData\Roaming\npm;D:\jetbrains_py\Scripts;E:\JetBrains\IntelliJ IDEA 2021.1.3\bin;C:\Users\JIMMIE\.dotnet\tools;C:\Program Files\Azure Data Studio\bin 
+;D:\Program Files\JetBrains\CLion 2021.2.3\bin;D:\Program Files\JetBrains\WebStorm 2021.2.3\bin;D:\Program Files\heroku\bin;D:\Users\JIMMIE\AppData\Local\Programs\Fiddler;E:\mingw64\bin;E:\texlive\2022\bin\win32;E:\VScode\Microsoft VS Code\bin
+# environment
+COMPUTERNAME = LAPTOP-PQ2C4VM8
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PYCHARM = D:\jetbrains_py\PyCharm 2020.3.3\bin;E:\Users\JIMMIE\anaconda3\Library\bin;E:\Users\JIMMIE\anaconda3\Scripts;
+# environment
+PROMPT = $P$G
+# envir 
+onment
+CHOCOLATEYLASTPATHUPDATE = 132665121778503817
+# environment
+NVTOOLSEXT_PATH = C:\Program Files\NVIDIA Corporation\NvToolsExt\
+# environment
+INTELLIJ IDEA = E:\JetBrains\IntelliJ IDEA 2021.1.3\bin;
+# environment
+LOGONSERVER = \\LAPTOP-PQ2C4VM8
+# environment
+USERNAME = JIMMIE
+# environment
+GANT_HOME = D:\GNAT\2021
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;. 
+VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+MAVEN_HOME = D:\Maven\apache-maven-3.8.3
+# environment
+USERDOMAIN = LAPTOP-PQ2C4VM8
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# environment
+__COMPAT_LAYER = RunAsAdmin Installer
+# environment
+MSMPI_BENCHMARKS = C:\Program Files\Microsoft MPI\Benchmarks\
+# makefile
+.DEFAULT_GOAL := 
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C 
+:\Program Files (x86)
+# environment
+NVCUDASAMPLES_ROOT = E:\NvidaGPUComputingToolkits\CUDA\Samples\version_10
+# environment
+USERDOMAIN_ROAMINGPROFILE = LAPTOP-PQ2C4VM8
+# environment
+NUMBER_OF_PROCESSORS = 12
+# environment
+PUBLIC = C:\Users\Public
+# environment
+NVCUDASAMPLES10_0_ROOT = E:\NvidaGPUComputingToolkits\CUDA\Samples\version_10
+# environment
+APPDATA = C:\Users\JIMMIE\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/wo 
+rkbench/api/node/extensionHostProcess
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\JIMMIE\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\81f79afb25fbfa15bafe91b580392065-1.70.2-main-sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest- 
+stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync
+# environment
+PROCESSOR_REVISION = 6001
+# environment
+PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+# variable set hash-table stats:
+# Load=104/1024=10%, Rehash=0, Collisions=11/124=9%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+
+# No files, no impossibilities in 0 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target: 
+
+all:
+#  Command line target.
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+d:\workplace\practice\${workspaceFolder}:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=4/1024=0%, Rehash=0, Collisions=0/14=0%
+# VPATH Sea 
+rch Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 4 / storage = 64 B / avg = 16 B
+# current buf: size = 8162 B / used = 64 B / count = 4 / avg = 16 B
+
+# strcache performance: lookups = 6 / hit rate = 33%
+# hash-table stats:
+# Load=4/8192=0%, Rehash=0, Collisions=0/6=0%
+# Finished Make data base on Sun Aug 28 16:37:03 2022
+
+ 

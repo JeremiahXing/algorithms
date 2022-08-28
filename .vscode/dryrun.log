@@ -1,0 +1,13 @@
+make.exe -f d:\workplace\practice\${workspaceFolder} --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'd:/workplace/practice'
+ 
+make: d:\workplace\practice\${workspaceFolder}: No such file or directory
+
+make: *** No rule to make target 'd:\workplace\practice\${workspaceFolder}'.
+
+make: Failed to remake makefile 'd:\workplace\practice\${workspaceFolder}'.
+
+make: Leaving directory 'd:/workplace/practice'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
